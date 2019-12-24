@@ -1,7 +1,5 @@
 # TripadvisorDataMining
 
-[![DOI](https://zenodo.org/badge/215969714.svg)](https://zenodo.org/badge/latestdoi/215969714)
-
 Jupyter Nonebook for mining geolocated data from Tripadvisor - one of the world's leading aggregators for tourist data
 
 ## Requirements
